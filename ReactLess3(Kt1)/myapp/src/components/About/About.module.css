@@ -1,0 +1,26 @@
+.about{
+    background-color: #62D0DF;
+    height: 604px;
+}
+
+.about_wrapper{
+    display: flex;
+    align-items: center;
+    justify-content: end;
+}
+
+.text_wrapper{
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto ;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: center;
+    gap: 30px;
+}
+
+.text_wrapper > p, .text_wrapper > h1 {
+    text-align: left;
+    max-width: 570px;
+}

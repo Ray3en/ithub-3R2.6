@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header{
+  height: 180px;
+  background-color: bisque;
+
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding-right: 100px;
+}
+
+.header > button{
+  height: 50px;
+}
+
+.card{
+  height: 100px;
+  background-color: green;
+  margin: 50px 0px;
+  display: flex;
+  align-items: center;
+  padding-left: 50px;
+}
+
+.red {
+  background-color: red;
+}
+
+.card > p {
+  color: white;
+  font-size: 50px;
+}

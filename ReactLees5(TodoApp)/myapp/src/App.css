@@ -1,0 +1,17 @@
+.todo_item{
+  margin: 30px 170px;
+  outline: 1px solid black;
+  padding: 30px;
+  box-shadow: 5px 5px 5px black;
+}
+
+.input_area{
+  display: flex;
+  justify-content: center;
+}
+
+.input_area > input {
+  width: 40%;
+  box-shadow: 5px 5px 5px black;
+
+}

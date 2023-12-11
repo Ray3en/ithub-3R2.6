@@ -1,0 +1,14 @@
+/* Все указанные классы будут доступны всем компонентам */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Oswald&display=swap');
+
+.main_text{
+    font-family: 'Oswald', sans-serif;
+    font-size: 30px;
+    color: cadetblue;
+}
+
+
+.second_text{
+    font-family: 'Oswald', sans-serif;
+    font-size: 15px;
+}

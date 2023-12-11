@@ -1,0 +1,15 @@
+
+
+.post_item{
+    display: flex;
+    width: 200px;
+    height: 150px;
+
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+
+    background-color: rgb(219, 105, 105);
+    border: 1px solid black;
+    border-radius: 15px;
+}

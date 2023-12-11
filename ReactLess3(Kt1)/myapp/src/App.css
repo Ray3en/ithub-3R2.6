@@ -1,0 +1,45 @@
+@import url('https://fonts.cdnfonts.com/css/abeezee');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.blue_main_title{
+  color: #22356F;
+  font-family: 'ABeeZee', sans-serif;
+  font-size: 48px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 112.29%; /* 53.899px */
+  letter-spacing: -1.68px;
+}
+
+.blue_second_text{
+  color: #22356F;
+  font-family: 'ABeeZee', sans-serif;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 177.3%; /* 42.552px */
+}
+
+.white_main_text{
+  color: #FFF;
+  font-family: 'ABeeZee', sans-serif;;
+  font-size: 32px;
+  font-style: italic;
+  font-weight: 400;
+  line-height: 76.83%; /* 27.659px */
+  letter-spacing: -0.216px;
+}
+
+.white_second_text{
+  color: #FFF;
+  text-align: justify;
+  font-family: 'ABeeZee', sans-serif;;
+  font-size: 24px;
+  font-style: italic;
+  font-weight: 100;
+  line-height: 147.75%; /* 35.46px */
+}
